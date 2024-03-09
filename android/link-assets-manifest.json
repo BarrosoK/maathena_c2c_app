@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/WorkSans-Italic-VariableFont_wght.ttf",
+      "sha1": "1f3a4253494f6698c0f9916e09cfec94c1bdba1f"
+    },
+    {
+      "path": "assets/fonts/WorkSans-VariableFont_wght.ttf",
+      "sha1": "5a5c31a7166d40d51d018daed7c654cb34d641a6"
+    }
+  ]
+}
